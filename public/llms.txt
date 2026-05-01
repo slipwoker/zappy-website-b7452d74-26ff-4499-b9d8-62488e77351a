@@ -56,6 +56,58 @@ https://example.com/product/:slug
 https://example.com/category/:slug
 מוצרים - קניות באינטרנט AS
 
+### בית (EN)
+https://example.com/en/
+קניות אונליין במחירים הזולים ביותר בישראל! מוצרים מושלמים, משלוח מהיר לישראל, ומגוון עצום שממתין לך. הצטרף עכשיו וחסוך יותר בכל קנייה!
+
+### מודלי הכנסה באינטרנט (EN)
+https://example.com/en/internet-income-models
+גלה את מודלי ההכנסה החכמים ביותר מהאינטרנט! מסחר אלקטרוני, שיווק שותפים ועוד — כל הכלים להצלחה פיננסית מקוונת מרוכזים כאן עבורך. התחל להרוויח היום!
+
+### חזון AS Bank (EN)
+https://example.com/en/as-bank-vision
+חזון AS Bank מביא לך פתרון בנקאי דיגיטלי מהפכני שמרכז את כל הכנסותיך המקוונות. נהל את כספך בחכמה, הגדל את רווחיך ובנה עתיד פיננסי יציב עם אתר קניות מקוונות אמין!
+
+### חזון מפעל אוטונומי (EN)
+https://example.com/en/autonomous-factory-vision
+חזון המפעל האוטונומי של קניות באינטרנט AS מייצר מוצרים מושלמים ללא תלות בידיים אנושיות! טכנולוגיה חכמה, עלויות נמוכות ומחירים תחרותיים — קניות אונליין במחירים הזולים ביותר שראית!
+
+### צור קשר (EN)
+https://example.com/en/contact
+יש לך שאלה, הצעה או רוצה לדעת עוד על קניות באינטרנט AS? צוות המומחים שלנו זמין עבורך עכשיו! צור קשר ותקבל מענה מהיר מאתר קניות מקוונות אמין שתמיד כאן בשבילך.
+
+### Products (EN)
+https://example.com/en/products
+המוצרים שלנו - קניות באינטרנט AS
+
+### Cart (EN)
+https://example.com/en/cart
+עגלת הקניות שלך
+
+### Checkout (EN)
+https://example.com/en/checkout
+תשלום
+
+### Login (EN)
+https://example.com/en/login
+התחברות לקוחות
+
+### Account (EN)
+https://example.com/en/account
+החשבון שלי
+
+### Order Success (EN)
+https://example.com/en/order-success
+תודה על ההזמנה
+
+### Product Detail (EN)
+https://example.com/en/product/:slug
+פרטי המוצר - קניות באינטרנט AS
+
+### Category (EN)
+https://example.com/en/category/:slug
+מוצרים - קניות באינטרנט AS
+
 ## Legal & Policy
 
 ### Privacy Policy
